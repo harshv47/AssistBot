@@ -2,6 +2,8 @@
 
 This repository contains the [Python][python] packages for the [Google Assistant SDK][google-assistant-sdk].
 
+The working file is here at [hotword.py](https://github.com/Augustine98/AssistBot/blob/master/google-assistant-sdk/googlesamples/assistant/library/hotword.py.save.1)
+
 To get started, see the following developer guides:
 - [Introduction to the Google Assistant Library][getting-started-rpi3-python].
 - [Introduction to the Google Assistant Service][getting-started-other-platforms].
